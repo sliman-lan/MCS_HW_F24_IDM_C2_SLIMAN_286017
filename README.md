@@ -1,5 +1,33 @@
-<h1 align="center" id="title">Machine Learning Models Comparitive</h1>
 
-<p align="center"><img src="https://socialify.git.ci/sliman-lan/MCS_HW_F24_IDM_C2_SLIMAN_286017/image?font=Raleway&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+# Machine Learning Models Comparative
 
-<p id="description">Comparative between four machine learning models ( logistic regression decision tree naive bayes and support vector machine) On two datasets Iris and Breast cancer.</p>
+Comparative between four machine learning models ( logistic regression decision tree naive bayes and support vector machine) On two datasets Iris and Breast cancer.
+
+
+## Authors
+
+- [@sliman-lan](https://www.github.com/sliman-lan)
+- [@ReemAli30](https://www.github.com/ReemAli30)
+
+
+## Badges
+![Static Badge](https://img.shields.io/badge/IDM-SKLearn-blue)
+
+![Static Badge](https://img.shields.io/badge/PYTHON-GOOGLECOLAB-red)
+
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## 🔗 Links
+[![Google Colab](https://img.shields.io/badge/Colab-orange)
+](https://colab.research.google.com/drive/1peJxLtjkjh1lX0-VET6mVpB-wQurmN4s?usp=sharing)
+
+
+
+
+
